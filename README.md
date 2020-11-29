@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Php, Linux, Python and C#**
 
-- 📫 How to reach me **canturkkisisel@gmail.com**
+- 📫 How to reach me **iamcanturk@gmail.com**
 
 
 
