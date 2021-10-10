@@ -4,7 +4,7 @@
 
 - 📝 I regulary write articles on [https://medium.com/@iamcanturk](https://medium.com/@iamcanturk)
 
-- 💬 Ask me about **Php, Linux, Python and C#**
+- 💬 Ask me about **Php, Laravel and C#**
 
 - 📫 How to reach me **iamcanturk@gmail.com**
 
