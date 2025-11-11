@@ -36,15 +36,6 @@ Security is not a feature — it is part of the design.
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Frontend & UI**  
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Vue.js](https://img.shields.io/badge/vue.js-35495e?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![NuxtJS](https://img.shields.io/badge/nuxt.js-000000?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
 **Database & Cloud**  
 ![MySQL](https://img.shields.io/badge/mysql-0f74aa?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -71,22 +62,12 @@ Security is not a feature — it is part of the design.
 ### CURRENT STATUS
 
 ```bash
-> systemctl status yusufturk
+> systemctl status yusufcanturk
 Active: active (running)
 Processes: Laravel Projects / Python Security Scripts / Pentest Frameworks
 Load: Continuous Research and Development
 ```
 
----
-
-### GITHUB STATS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamcanturk&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FFB3&icon_color=00FFB3" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamcanturk&theme=chartreuse-dark&hide_border=true&background=000000&ring=00FFB3&fire=00FFB3" width="49%" />
-</p>
-
----
 
 ### CONNECT
 
@@ -106,20 +87,3 @@ Load: Continuous Research and Development
 </p>
 
 ---
-
-### TERMINAL MODE
-
-```bash
-root@localhost:~# cat about.txt
-
-Yusuf Can Türk
-Backend Developer | Secure Software Engineer | Cyber Security Researcher
-
-I create systems built on performance, scalability, and security.
-I break systems to understand how to defend them.
-Software and security are two sides of the same coin.
-
-root@localhost:~# exit
-logout
-Connection closed.
-```
