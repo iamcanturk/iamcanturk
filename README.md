@@ -1,16 +1,12 @@
 <div align="center">
 
-  <img src="https://github.com/iamcanturk/iamcanturk/blob/output/github-snake-dark.svg" width="100%" alt="Snake animation" />
+  # `「 YUSUF CAN TÜRK 」`
+
+  ### Backend Developer | Security Researcher | Pentester
 
   <br/>
 
-  # `YUSUF CAN TÜRK`
-
-  **Backend Developer | Security Researcher | Pentester**
-
-  <br/>
-
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=00FFB3&center=true&vCenter=true&repeat=true&width=550&height=45&lines=%24+whoami+%E2%86%92+Backend+Developer+from+Turkey;%24+cat+skills.txt+%E2%86%92+Secure+Systems+%7C+Pentesting+%7C+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=00FFB3&center=true&vCenter=true&repeat=true&width=550&height=45&lines=%24+whoami+%E2%86%92+Backend+Developer+from+Turkey;%24+cat+skills.txt+%E2%86%92+Secure+Systems+%7C+Pentesting+%7C+APIs;%24+nmap+%E2%86%92+Scanning+for+vulnerabilities...;%24+git+push+%E2%86%92+Building+secure+systems" alt="Typing SVG" />
 
   <br/>
 
@@ -157,17 +153,19 @@ Backend-focused software engineer who integrates **security principles** into ev
 ---
 
 <div align="center">
-```
-  "Security is not a feature. It is part of the design."
-                                       — Yusuf Can Türk
-```
-
-  <br/>
-
-  <img src="https://github.com/iamcanturk/iamcanturk/blob/output/github-snake-dark.svg" width="100%" alt="Snake animation" />
-
-  <br/>
 
   <img src="https://komarev.com/ghpvc/?username=iamcanturk&style=flat-square&color=00FFB3&label=Profile+Views" />
 
 </div>
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   "Security is not a feature. It is part of the design."     ║
+║                                                              ║
+║                                    — Yusuf Can Türk          ║
+║                                                              ║
+║   $ echo "Thanks for visiting!"                              ║
+║   $ exit 0                                                   ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
