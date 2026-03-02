@@ -142,14 +142,6 @@ Backend-focused software engineer who integrates **security principles** into ev
 
 <br/>
 
-## `> cat achievements.log`
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamcanturk&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="80%" />
-</div>
-
-<br/>
-
 ---
 
 <div align="center">
@@ -158,14 +150,13 @@ Backend-focused software engineer who integrates **security principles** into ev
 
 </div>
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   "Security is not a feature. It is part of the design."     ║
-║                                                              ║
-║                                    — Yusuf Can Türk          ║
-║                                                              ║
-║   $ echo "Thanks for visiting!"                              ║
-║   $ exit 0                                                   ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+╔═════════════════════════════════════════════════════════════╗
+║                                                             ║
+║  "Security is not a feature. It is part of the design."     ║
+║                                        — Yusuf Can Türk     ║
+║                                                             ║
+║  $ echo "Thanks for visiting!"                              ║
+║  $ exit 0                                                   ║
+║                                                             ║
+╚═════════════════════════════════════════════════════════════╝
 ```
