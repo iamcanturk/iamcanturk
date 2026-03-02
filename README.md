@@ -139,24 +139,3 @@ Backend-focused software engineer who integrates **security principles** into ev
      CGroup: /system.slice/yusufcanturk.service
              └─ "Building secure systems, one commit at a time."
 ```
-
-<br/>
-
----
-
-<div align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=iamcanturk&style=flat-square&color=00FFB3&label=Profile+Views" />
-
-</div>
-```
-╔═════════════════════════════════════════════════════════════╗
-║                                                             ║
-║  "Security is not a feature. It is part of the design."     ║
-║                                        — Yusuf Can Türk     ║
-║                                                             ║
-║  $ echo "Thanks for visiting!"                              ║
-║  $ exit 0                                                   ║
-║                                                             ║
-╚═════════════════════════════════════════════════════════════╝
-```
