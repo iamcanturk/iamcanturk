@@ -1,12 +1,16 @@
-<!-- YUSUF CAN TURK - GitHub Profile README -->
-
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00FFB3,100:0d1117&height=220&section=header&text=YUSUF%20CAN%20T%C3%9CRK&fontSize=42&fontColor=00FFB3&fontAlignY=35&desc=Backend%20Developer%20%7C%20Security%20Researcher%20%7C%20Pentester&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+  <img src="https://github.com/iamcanturk/iamcanturk/blob/output/github-snake-dark.svg" width="100%" alt="Snake animation" />
 
   <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=00FFB3&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=%24+whoami+%E2%86%92+Backend+Developer+from+Turkey;%24+cat+skills.txt+%E2%86%92+Secure+Systems+%7C+Pentesting+%7C+APIs" alt="Typing SVG" />
+  # `YUSUF CAN TÜRK`
+
+  **Backend Developer | Security Researcher | Pentester**
+
+  <br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=00FFB3&center=true&vCenter=true&repeat=true&width=550&height=45&lines=%24+whoami+%E2%86%92+Backend+Developer+from+Turkey;%24+cat+skills.txt+%E2%86%92+Secure+Systems+%7C+Pentesting+%7C+APIs" alt="Typing SVG" />
 
   <br/>
 
@@ -142,30 +146,10 @@ Backend-focused software engineer who integrates **security principles** into ev
 
 <br/>
 
-## `> cat stats.log`
+## `> cat achievements.log`
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=iamcanturk&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00FFB3&text_color=c9d1d9&ring_color=00FFB3" height="170" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamcanturk&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFB3&text_color=c9d1d9" height="170" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=iamcanturk&theme=radical&hide_border=true&background=0D1117&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3&sideLabels=00FFB3" width="520" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamcanturk&bg_color=0d1117&color=00FFB3&line=00FFB3&point=ffffff&area=true&area_color=00FFB3&hide_border=true" width="95%" />
-
-</div>
-
-<br/>
-
-## `> cat trophy_case.log`
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamcanturk&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=iamcanturk&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="80%" />
 </div>
 
 <br/>
@@ -173,18 +157,17 @@ Backend-focused software engineer who integrates **security principles** into ev
 ---
 
 <div align="center">
+```
+  "Security is not a feature. It is part of the design."
+                                       — Yusuf Can Türk
+```
+
+  <br/>
+
+  <img src="https://github.com/iamcanturk/iamcanturk/blob/output/github-snake-dark.svg" width="100%" alt="Snake animation" />
+
+  <br/>
 
   <img src="https://komarev.com/ghpvc/?username=iamcanturk&style=flat-square&color=00FFB3&label=Profile+Views" />
 
-  <br/><br/>
-```
-  ┌─────────────────────────────────────────────┐
-  │  "Security is not a feature.                │
-  │   It is part of the design."                │
-  │                          — Yusuf Can Türk   │
-  └─────────────────────────────────────────────┘
-```
-
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00FFB3,100:0d1117&height=120&section=footer" width="100%" />
