@@ -37,6 +37,16 @@ The full visual identity for a new business — logo, corporate identity, social
 
 ---
 
+## 📦 Featured open source
+
+> Most of my client & enterprise work is under NDA — happy to walk you through it. These are the ones I can share openly.
+
+- **[DoctorDock](https://github.com/iamcanturk/DoctorDock)** — *a doctor for your Docker*: local-first, AI-free Docker security & cleanup diagnostics, CLI + macOS app. [`doctordock.iamcanturk.dev`](https://doctordock.iamcanturk.dev) &nbsp;`Go` · `Security` · `CLI`
+- **[MergenFlow](https://github.com/iamcanturk/mergenflow)** — a "freelancer operating system." &nbsp;`TypeScript` · `SaaS`
+- **[Erklig](https://github.com/iamcanturk/erklig)** — a backdoor analysis engine. &nbsp;`Go` · `Security`
+
+---
+
 ## 🛡️ Disclosed CVEs
 
 <table>
@@ -60,15 +70,6 @@ The full visual identity for a new business — logo, corporate identity, social
     </tr>
   </tbody>
 </table>
-
----
-
-## 📦 Featured open source
-
-> Most of my client & enterprise work is under NDA — happy to walk you through it. These are the ones I can share openly.
-
-- **[MergenFlow](https://github.com/iamcanturk/mergenflow)** — a "freelancer operating system." &nbsp;`TypeScript` · `SaaS`
-- **[Erklig](https://github.com/iamcanturk/erklig)** — a backdoor analysis engine. &nbsp;`Go` · `Security`
 
 ---
 
