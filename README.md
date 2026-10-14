@@ -4,6 +4,8 @@
 
 <a href="https://iamcanturk.dev"><img src="https://img.shields.io/badge/web-iamcanturk.dev-4f6bff?style=for-the-badge&labelColor=151a31&logo=googlechrome&logoColor=a4b5ff" alt="Website: iamcanturk.dev"></a>
 <a href="https://x.com/iamcanturk"><img src="https://img.shields.io/badge/x-@iamcanturk-2a3161?style=for-the-badge&labelColor=151a31&logo=x&logoColor=f2f4ff" alt="X: @iamcanturk"></a>
+<a href="https://www.instagram.com/iamcanturk.dev/"><img src="https://img.shields.io/badge/instagram-@iamcanturk.dev-b04dff?style=for-the-badge&labelColor=151a31&logo=instagram&logoColor=cbb5ff" alt="Instagram: @iamcanturk.dev"></a>
+<a href="https://www.tiktok.com/@iamcanturk.dev"><img src="https://img.shields.io/badge/tiktok-@iamcanturk.dev-ff3d71?style=for-the-badge&labelColor=151a31&logo=tiktok&logoColor=ffb0b8" alt="TikTok: @iamcanturk.dev"></a>
 <a href="https://www.linkedin.com/in/yusufcanturk/"><img src="https://img.shields.io/badge/linkedin-yusufcanturk-9466ff?style=for-the-badge&labelColor=151a31&logo=linkedin&logoColor=cbb5ff" alt="LinkedIn: yusufcanturk"></a>
 
 I'm a full-stack developer focused on application security, working as an<br>
@@ -96,11 +98,12 @@ When I find a vulnerability in software I use, I tell the vendor. Once a fix shi
       <img src="assets/present.png" height="120" alt="Pixel mascot presenting">
     </td>
     <td valign="middle">
-      <b>A 30-second security lesson every day.</b><br>
-      30 days, 30 episodes: from vibe-coding security to password managers, from famous attacks in history to a Republic Day special. The videos are in Turkish; every episode's script and checklist live on the site.<br><br>
+      <b>30 seconds a day on software, AI, tech and security.</b><br>
+      Short pixel-art videos: vibe-coding pitfalls, password managers, AI agents, famous moments in tech history and a Republic Day special. The videos are in Turkish; every episode's script and checklist live on the site.<br><br>
       <img src="https://img.shields.io/badge/starts-20%20Oct%202026-ffc94a?style=flat-square&labelColor=151a31" alt="Starts 20 Oct 2026">&nbsp;
       <a href="https://iamcanturk.dev/en/shorts/"><b>iamcanturk.dev/en/shorts →</b></a><br>
-      <sub><b>TR</b> · Her gün 30 saniyede bir güvenlik dersi.</sub>
+      Watch on <a href="https://www.tiktok.com/@iamcanturk.dev">TikTok</a> · <a href="https://www.instagram.com/iamcanturk.dev/">Instagram</a> · <a href="https://x.com/iamcanturk">X</a><br>
+      <sub><b>TR</b> · Her gün 30 saniyede yazılım, yapay zekâ, teknoloji ve güvenlik.</sub>
     </td>
   </tr>
 </table>
