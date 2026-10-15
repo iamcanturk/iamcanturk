@@ -102,7 +102,7 @@ When I find a vulnerability in software I use, I tell the vendor. Once a fix shi
       Short pixel-art videos: vibe-coding pitfalls, password managers, AI agents, famous moments in tech history and a Republic Day special. The videos are in Turkish; every episode's script and checklist live on the site.<br><br>
       <img src="https://img.shields.io/badge/starts-20%20Oct%202026-ffc94a?style=flat-square&labelColor=151a31" alt="Starts 20 Oct 2026">&nbsp;
       <a href="https://iamcanturk.dev/en/shorts/"><b>iamcanturk.dev/en/shorts →</b></a><br>
-      Watch on <a href="https://www.tiktok.com/@iamcanturk.dev">TikTok</a> · <a href="https://www.instagram.com/iamcanturk.dev/">Instagram</a> · <a href="https://x.com/iamcanturk">X</a><br>
+      Watch on <a href="https://x.com/iamcanturk">X</a> · <a href="https://www.instagram.com/iamcanturk.dev/">Instagram</a> · <a href="https://www.tiktok.com/@iamcanturk.dev">TikTok</a><br>
       <sub><b>TR</b> · Her gün 30 saniyede yazılım, yapay zekâ, teknoloji ve güvenlik.</sub>
     </td>
   </tr>
