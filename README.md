@@ -76,14 +76,14 @@ When I find a vulnerability in software I use, I tell the vendor. Once a fix shi
       <td>Missing WebSocket origin validation<br><sub>Cross-Site WebSocket Hijacking</sub></td>
       <td><img src="https://img.shields.io/badge/7.6-HIGH-ff5c6c?style=flat-square&labelColor=151a31" alt="CVSS 7.6 HIGH"></td>
       <td>Textream (macOS) &lt; 1.5.1</td>
-      <td><a href="https://iamcanturk.dev/en/security/cve-2026-28403/">Write-up</a> · <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-28403">NVD</a> · <a href="https://github.com/advisories/GHSA-wr3v-x247-337w">GHSA</a></td>
+      <td><a href="https://iamcanturk.dev/en/security/cve-2026-28403/">Write-up</a> · <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-28403">NVD</a> · <a href="https://github.com/f/textream/security/advisories/GHSA-wr3v-x247-337w">GHSA</a></td>
     </tr>
     <tr>
       <td><a href="https://iamcanturk.dev/en/security/cve-2026-28412/"><b>CVE-2026-28412</b></a></td>
       <td>Resource exhaustion through unlimited connections<br><sub>Denial of Service</sub></td>
       <td><img src="https://img.shields.io/badge/6.5-MEDIUM-ffa24d?style=flat-square&labelColor=151a31" alt="CVSS 6.5 MEDIUM"></td>
       <td>Textream (macOS) &lt; 1.5.1</td>
-      <td><a href="https://iamcanturk.dev/en/security/cve-2026-28412/">Write-up</a> · <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-28412">NVD</a> · <a href="https://github.com/advisories/GHSA-qr5p-7x47-qxh9">GHSA</a></td>
+      <td><a href="https://iamcanturk.dev/en/security/cve-2026-28412/">Write-up</a> · <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-28412">NVD</a> · <a href="https://github.com/f/textream/security/advisories/GHSA-qr5p-7x47-qxh9">GHSA</a></td>
     </tr>
   </tbody>
 </table>
