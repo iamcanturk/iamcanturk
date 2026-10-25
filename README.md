@@ -19,32 +19,46 @@ The rest of the time I design the brands and interfaces that sit on top of it al
 
 <br>
 
-<img src="assets/title-projects.svg" width="100%" alt="ls ~/projects: Things I have built (3 projects)">
+<img src="assets/title-projects.svg" width="100%" alt="ls ~/projects: Things I have built (4 projects)">
 
 <table>
   <tr>
-    <td width="33%" valign="top" align="center">
+    <td width="50%" valign="top" align="center">
+      <img src="assets/headset.png" height="120" alt="Pixel mascot wearing a radio headset"><br>
+      <a href="https://github.com/iamcanturk/morseforge"><b>MorseForge</b></a><br>
+      <sub><i>Learn Morse code by ear</i></sub>
+    </td>
+    <td width="50%" valign="top" align="center">
       <img src="assets/desk_monitor.png" height="120" alt="Pixel mascot at a desk with a monitor"><br>
       <a href="https://github.com/iamcanturk/DoctorDock"><b>DoctorDock</b></a><br>
       <sub><i>A doctor for your Docker</i></sub>
     </td>
-    <td width="33%" valign="top" align="center">
+  </tr>
+  <tr>
+    <td valign="top">
+      A free Morse code trainer that teaches by ear instead of from a chart, and runs entirely in the browser with no account. The front page is the first lesson: tap the key once and you have sent E. Straight key and iambic paddles, a daily wire and a 60-second test.<br><br>
+      <code>Astro</code> <code>TypeScript</code> <code>Web Audio</code> <code>PWA</code> <code>MIT</code><br>
+      <sub><a href="https://morse.iamcanturk.dev">morse.iamcanturk.dev</a> · <a href="https://iamcanturk.dev/en/proje/morseforge-learn-morse-code-by-ear/">project page</a></sub>
+    </td>
+    <td valign="top">
+      Scans your local Docker environment for security problems, misconfigurations and reclaimable disk in under a second, entirely offline. Ranks findings by severity and gives you a health score out of 100.<br><br>
+      <code>Go</code> <code>Docker</code> <code>macOS</code> <code>MIT</code><br>
+      <sub><a href="https://doctordock.iamcanturk.dev">doctordock.iamcanturk.dev</a> · <a href="https://iamcanturk.dev/en/proje/doctordock-a-doctor-for-your-docker/">project page</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
       <img src="assets/magnify.png" height="120" alt="Pixel mascot with a magnifying glass"><br>
       <a href="https://github.com/iamcanturk/erklig"><b>Erklig</b></a><br>
       <sub><i>Mighty backdoor analysis engine</i></sub>
     </td>
-    <td width="33%" valign="top" align="center">
+    <td width="50%" valign="top" align="center">
       <img src="assets/laptop.png" height="120" alt="Pixel mascot with a laptop and a coffee"><br>
       <a href="https://github.com/iamcanturk/mergenflow"><b>MergenFlow</b></a><br>
       <sub><i>The freelancer OS</i></sub>
     </td>
   </tr>
   <tr>
-    <td valign="top">
-      Scans your local Docker environment for security problems, misconfigurations and reclaimable disk in under a second, entirely offline. Ranks findings by severity and gives you a health score out of 100.<br><br>
-      <code>Go</code> <code>Docker</code> <code>macOS</code> <code>MIT</code><br>
-      <sub><a href="https://doctordock.iamcanturk.dev">doctordock.iamcanturk.dev</a> · <a href="https://iamcanturk.dev/en/proje/doctordock-a-doctor-for-your-docker/">project page</a></sub>
-    </td>
     <td valign="top">
       An open-source tool for detecting web shells and backdoors on servers, using signature and behaviour based analysis. Fast triage during penetration tests and incident response.<br><br>
       <code>Go</code> <code>DFIR</code> <code>Pentest</code><br>
